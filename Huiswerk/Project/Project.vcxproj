@@ -40,6 +40,9 @@
     <ClInclude Include="..\player.hpp" />
     <ClInclude Include="..\power_up.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.gitignore" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{7FAD5AD7-A469-4F4E-A7DF-543A6A0F6035}</ProjectGuid>

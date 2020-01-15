@@ -22,4 +22,7 @@
     <ClInclude Include="..\command.hpp" />
     <ClInclude Include="..\input_handler.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.gitignore" />
+  </ItemGroup>
 </Project>
