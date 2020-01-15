@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.sln
+Makefile
+Libraries
+Binaries
+Project
+cmake-build-*/
